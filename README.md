@@ -1,3 +1,5 @@
-depana
+layout: page
 
-# SHEEEEEEEEEEEEEEEEESH
+title: "PAGE TITLE"
+
+permalink: /URL-PATH/
