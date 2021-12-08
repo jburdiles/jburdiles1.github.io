@@ -1,5 +1,5 @@
 # Proyecto IMT
-Esta es mi pagina monita
+Descripcion loca
 
 # Titulo 1
 
@@ -20,9 +20,7 @@ Esta es mi pagina monita
 ![IMAGEN](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
----
-layout: default
----
+# Tabla
 
 
 | head1        | head two          | three |
@@ -32,15 +30,15 @@ layout: default
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### Debajo hay una linea horizontal
 
 * * *
 
 
-### Here is an unordered list:
+### Lista:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   1
+*   2
+*   3
+*   4
 
