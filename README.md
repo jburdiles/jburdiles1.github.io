@@ -16,8 +16,8 @@ Esta es mi pagina monita
 **Bold e _italic_**
 
 ***Todo bold e italic***
-Cambiosadksadjskal
-![Yo con la sofi c:](https://github.com/jburdiles/jburdiles.github.io/blob/main/imagenes/WhatsApp%20Image%202021-12-06%20at%2019.07.55.jpeg)
+
+![Yo con la sofi c:](https://github.com/jburdiles/jburdiles.github.io/blob/main/imagenes/sofi.png)
 
 
 ---
