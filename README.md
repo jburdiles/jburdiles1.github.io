@@ -17,7 +17,7 @@ Esta es mi pagina monita
 
 ***Todo bold e italic***
 
-![Yo con la sofi c:](https://raw.githubusercontent.com/jburdiles/jburdiles.github.io/master/imagenes/sofi.png)
+![IMAGEN](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 ---
@@ -43,8 +43,4 @@ layout: default
 *   Item bar
 *   Item baz
 *   Item zip
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
