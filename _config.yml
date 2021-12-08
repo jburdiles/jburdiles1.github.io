@@ -13,4 +13,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   
+title: “PAGE TITLE”
 theme: jekyll-theme-cayman
