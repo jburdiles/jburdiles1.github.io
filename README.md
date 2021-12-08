@@ -17,7 +17,7 @@ Esta es mi pagina monita
 
 ***Todo bold e italic***
 
-![Yo con la sofi c:](https://github.com/jburdiles/jburdiles.github.io/blob/main/imagenes/sofi.png)
+![Yo con la sofi c:](https://raw.githubusercontent.com/jburdiles/jburdiles.github.io/master/imagenes/sofi.png)
 
 
 ---
