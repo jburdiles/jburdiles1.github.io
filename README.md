@@ -1,5 +1,3 @@
-layout: page
+# Sofi yo te amo
 
-title: "PAGE TITLE"
-
-permalink: /URL-PATH/
+Esta es mi pagina monita
