@@ -1,4 +1,5 @@
 # Proyecto IMT
+* * *
 
 ## Cambio climático 
 
@@ -36,7 +37,29 @@ Para este trabajo usamos diferentes módulos tales como:
 - (Agregar los necesarios)
 
 Con estos módulos limpiamos y organizamos datos oficiales de **bancomundial.org** entre otras paginas de confianza. Por último con
-todos los datos limpios, organizados y evaluados, los graficámos para que los datos sean sencillamente visibles para cualquier persona.
+todos los datos limpios, organizados y evaluados, los graficamos para que los resultados puedan ser interpretados de una forma sencilla
+por cualquier persona.
+
+* * *
+
+## CO2
+
+El CO2 es uno de los factores que más influyen en el cambio climático. A lo largo de la historia la emisión de estos ha ido
+aumentando en todo el mundo debido al exponencial crecimiento de la población y los requerimientos que necesita el ser humano
+para vivir con un gran nivel de comodidad.
+
+(Inserte gráfico)
+
+## Metano 
+
+El Metano es otro de los gases que más afectan al cambio climático, este produce más energía calorífica y lumínica por masa que 
+cualquier otro combustible fósil. El metano atrapa el calor, por lo que contribuye al efecto invernadero del planeta tierra, un efecto
+el cual si bien es necesario para vivir (Ya que sin este la temperatura media sería de -18°C), si lo potenciamos mucho, la temperatura
+subira hasta llegar a un punto que puede producir sequía entre otros problemas.
+
+(Inerte gráfico)
+
+
 
 
 
