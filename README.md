@@ -59,9 +59,27 @@ subira hasta llegar a un punto que puede producir sequía entre otros problemas.
 
 (Inerte gráfico)
 
+## Temperatura
+
+Con todos los resultados anteriores, pasamos a las consecuencias de estos. El continuo crecimiento de la temperatura a lo largo de la historia.
+Si bien hace algunas décadas esto no se veía como un problema, hoy en día ya estamos siendo afectados por las altas temperaturas, y si no
+hacemos algo, las temperaturas seguiran subiendo constantemente.
+
+(Inserte gráfico)
 
 
 
+
+* * *
+## Datos
+
+A continuación dejamos los links de las páginas de las cuales sacamos los datos.
+
+- [Insertar nombre página](https://www.socalgas.com/es/stay-safe/methane-emissions/methane-and-the-environment?__cf_chl_jschl_tk__=ZN9BAr_bHmHMjUKvhJRJK4mpojdxNallne__mq9dtVc-1639110601-0-gaNycGzNCL0).
+- [Insertar nombre página](./another-page.html).
+- [Insertar nombre página](./another-page.html).
+
+## 
 
 # Titulo 1
 
