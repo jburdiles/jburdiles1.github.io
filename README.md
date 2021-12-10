@@ -1,6 +1,6 @@
 # Proyecto IMT
 
-## Tema principal (Contexto y motivación)
+## Cambio climático 
 
 El cambio climático es un dilema que la sociedad viene arrastrando hace décadas. Si bien es
 una situación que se tenía conocimiento desde numerosos años, no es hace mucho cuando la
@@ -24,6 +24,21 @@ cambio que se quiere lograr. Por esto, realizamos la siguiente investigación en
 ponemos en evidencia como el cambio climático ha afectado al mundo a través de los años,
 para concientizar y hacer más visible este problema de una forma sencilla a través de graficos
 los cuales pueden ser comprendidos por personas de todas las edades.
+
+## Métodos
+
+Para este trabajo usamos diferentes módulos tales como:
+
+- Pandas
+- Geopandas
+- Numpy
+- Matplotlib
+- (Agregar los necesarios)
+
+Con estos módulos limpiamos y organizamos datos oficiales de **bancomundial.org** entre otras paginas de confianza. Por último con
+todos los datos limpios, organizados y evaluados, los graficámos para que los datos sean sencillamente visibles para cualquier persona.
+
+
 
 # Titulo 1
 
