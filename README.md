@@ -57,7 +57,13 @@ cualquier otro combustible fósil. El metano atrapa el calor, por lo que contrib
 el cual si bien es necesario para vivir (Ya que sin este la temperatura media sería de -18°C), si lo potenciamos mucho, la temperatura
 subira hasta llegar a un punto que puede producir sequía entre otros problemas. 
 
-(Inerte gráfico)
+## Emisiones de metano (Principales potencias)
+
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/metano_principales_potencias.png)
+
+## Cantidad de ganado por pais (Principales potencias)
+
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/paises_con_mas_ganado.png)
 
 
 
