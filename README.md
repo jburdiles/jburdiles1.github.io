@@ -75,9 +75,13 @@ hacemos algo, las temperaturas seguiran subiendo constantemente.
 
 A continuación dejamos los links de las páginas de las cuales sacamos los datos.
 
-- [Insertar nombre página](https://www.socalgas.com/es/stay-safe/methane-emissions/methane-and-the-environment?__cf_chl_jschl_tk__=ZN9BAr_bHmHMjUKvhJRJK4mpojdxNallne__mq9dtVc-1639110601-0-gaNycGzNCL0).
-- [Insertar nombre página](./another-page.html).
-- [Insertar nombre página](./another-page.html).
+- [https://ourworldindata.org/ghg-emissions-by-sector](https://ourworldindata.org/ghg-emissions-by-sector).
+- [https://ourworldindata.org/grapher/methane-emissions](https://ourworldindata.org/grapher/methane-emissions).
+- [https://ourworldindata.org/grapher/methane-emissions-by-sector?time=latest&country=~OWID_WRL](https://ourworldindata.org/grapher/methane-emissions-by-sector?time=latest&country=~OWID_WRL).
+- [https://ourworldindata.org/grapher/monthly-atm-ch4?country=~OWID_WRL](https://ourworldindata.org/grapher/monthly-atm-ch4?country=~OWID_WRL).
+- [https://ourworldindata.org/grapher/population-by-country](https://ourworldindata.org/grapher/population-by-country).
+- [https://ourworldindata.org/grapher/cattle-livestock-count-heads](https://ourworldindata.org/grapher/cattle-livestock-count-heads).
+- [https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL](https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL).
 
 ## 
 
