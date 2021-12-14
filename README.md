@@ -65,7 +65,9 @@ Con todos los resultados anteriores, pasamos a las consecuencias de estos. El co
 Si bien hace algunas décadas esto no se veía como un problema, hoy en día ya estamos siendo afectados por las altas temperaturas, y si no
 hacemos algo, las temperaturas seguiran subiendo constantemente.
 
-(Inserte gráfico)
+### Mapa mundial de la temperatura media (2013)
+
+![IMAGEN](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 
