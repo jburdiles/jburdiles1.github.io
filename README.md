@@ -103,7 +103,7 @@ A continuación dejamos los links de las páginas de las cuales sacamos los dato
 
 ***Todo bold e italic***
 
-![IMAGEN](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/blob/main/imagenes/temperatura_media_2013.png)
 
 
 # Tabla
