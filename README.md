@@ -89,9 +89,6 @@ hacemos algo, las temperaturas seguiran subiendo constantemente.
 
 ![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
 
-
-
-
 * * *
 ## Datos
 
@@ -104,45 +101,4 @@ A continuación dejamos los links de las páginas de las cuales sacamos los dato
 - [https://ourworldindata.org/grapher/population-by-country](https://ourworldindata.org/grapher/population-by-country).
 - [https://ourworldindata.org/grapher/cattle-livestock-count-heads](https://ourworldindata.org/grapher/cattle-livestock-count-heads).
 - [https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL](https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL).
-
-## 
-
-# Titulo 1
-
-## Titulo 2
-
-### Titulo 3
-
-**Bold**
-
-*italic*
-
-~~Strikethrought~~
-
-**Bold e _italic_**
-
-***Todo bold e italic***
-
-
-# Tabla
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### Debajo hay una linea horizontal
-
-* * *
-
-
-### Lista:
-
-*   1
-*   2
-*   3
-*   4
 
