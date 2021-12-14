@@ -34,7 +34,7 @@ Para este trabajo usamos diferentes módulos tales como:
 - Geopandas
 - Numpy
 - Matplotlib
-- (Agregar los necesarios)
+- Seaborn
 
 Con estos módulos limpiamos y organizamos datos oficiales de **bancomundial.org** entre otras paginas de confianza. Por último con
 todos los datos limpios, organizados y evaluados, los graficamos para que los resultados puedan ser interpretados de una forma sencilla
@@ -52,12 +52,14 @@ para vivir con un gran nivel de comodidad.
 
 ## Metano 
 
-El Metano es otro de los gases que más afectan al cambio climático, este produce más energía calorífica y lumínica por masa que 
+El Metano es otro de los gases que más afectan al cambio climático, la principal emision de este se debe a la industria ganadera. Produce más energía calorífica y lumínica por masa que 
 cualquier otro combustible fósil. El metano atrapa el calor, por lo que contribuye al efecto invernadero del planeta tierra, un efecto
 el cual si bien es necesario para vivir (Ya que sin este la temperatura media sería de -18°C), si lo potenciamos mucho, la temperatura
-subira hasta llegar a un punto que puede producir sequía entre otros problemas.
+subira hasta llegar a un punto que puede producir sequía entre otros problemas. 
 
 (Inerte gráfico)
+
+
 
 ## Temperatura
 
