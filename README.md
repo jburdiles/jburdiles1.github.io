@@ -67,7 +67,7 @@ hacemos algo, las temperaturas seguiran subiendo constantemente.
 
 ### Mapa mundial de la temperatura media (2013)
 
-![IMAGEN](https://war.githubusercontent.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
 
 
 
@@ -102,8 +102,6 @@ A continuación dejamos los links de las páginas de las cuales sacamos los dato
 **Bold e _italic_**
 
 ***Todo bold e italic***
-
-![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
 
 
 # Tabla
