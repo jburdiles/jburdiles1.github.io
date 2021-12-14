@@ -48,7 +48,19 @@ El CO2 es uno de los factores que más influyen en el cambio climático. A lo la
 aumentando en todo el mundo debido al exponencial crecimiento de la población y los requerimientos que necesita el ser humano
 para vivir con un gran nivel de comodidad.
 
-(Inserte gráfico)
+### Mapa de CO2 emitido por pais
+
+#### Año 2000
+
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/co2_mapa_mundial_2000.png)
+
+#### Año 2010
+
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/co2_mapa_mundial_2010.png)
+
+#### Año 2019
+
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/co2_mapa_mundial_2019.png)
 
 ## Metano 
 
@@ -57,11 +69,11 @@ cualquier otro combustible fósil. El metano atrapa el calor, por lo que contrib
 el cual si bien es necesario para vivir (Ya que sin este la temperatura media sería de -18°C), si lo potenciamos mucho, la temperatura
 subira hasta llegar a un punto que puede producir sequía entre otros problemas. 
 
-## Emisiones de metano (Principales potencias)
+### Emisiones de metano (Principales potencias)
 
 ![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/metano_principales_potencias.png)
 
-## Cantidad de ganado por pais (Principales potencias)
+### Cantidad de ganado por pais (Principales potencias)
 
 ![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/paises_con_mas_ganado.png)
 
