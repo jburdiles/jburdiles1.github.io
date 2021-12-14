@@ -103,7 +103,7 @@ A continuación dejamos los links de las páginas de las cuales sacamos los dato
 
 ***Todo bold e italic***
 
-![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/main/imagenes/temperatura_media_2013.png)
+![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
 
 
 # Tabla
