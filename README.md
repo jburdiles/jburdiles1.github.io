@@ -1,4 +1,4 @@
-# Proyecto IMT
+# Proyecto IMT2200
 * * *
 
 ## Cambio climático 
@@ -89,6 +89,10 @@ hacemos algo, las temperaturas seguiran subiendo constantemente.
 
 ![IMAGEN](https://raw.github.com/jburdiles/jburdiles.github.io/master/imagenes/temperatura_media_2013.png)
 
+## Conclusión
+
+El cambio climatico es un problema de todos, un problema el cual tenemos hace mucho tiempo, pero que no le hemos tomado el peso. Si no tomamos las correspondientes medidas ahora, dentro de unas décadas nos arrepentiremos. Presenciando poco a poco la elevación de la temperatura media, aumento de la sequía a nivel mundial, al aumento del nivel del océano, pérdida de especies, escasez de diversos alimentos, entre otros.
+
 * * *
 ## Datos
 
@@ -101,4 +105,6 @@ A continuación dejamos los links de las páginas de las cuales sacamos los dato
 - [https://ourworldindata.org/grapher/population-by-country](https://ourworldindata.org/grapher/population-by-country).
 - [https://ourworldindata.org/grapher/cattle-livestock-count-heads](https://ourworldindata.org/grapher/cattle-livestock-count-heads).
 - [https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL](https://ourworldindata.org/grapher/ghg-emissions-by-sector?country=~OWID_WRL).
+
+
 
